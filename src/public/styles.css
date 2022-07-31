@@ -1,0 +1,19 @@
+body {
+    background-color: lavender;
+    color: blueviolet
+}
+
+.booktitle {
+    margin-top: 200;
+
+}
+#getBook{
+display: flex;
+flex-wrap: wrap;
+}
+p {
+    color: red
+}
+.book-container {
+    margin: 30px;
+}
